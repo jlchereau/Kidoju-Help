@@ -6,7 +6,7 @@ In line with several third party components used in the Kidoju software, we only
 
 On laptops and desktops, we recommend using Google Chrome. On phones and tablets, we recommend using the native browser.
 
-We recommend a screen of at least 7” to play Kidoju quizzes.
+We recommend a screen of at least 5.5” to play Kidoju quizzes.
 
-We recommend a screen of at least 10” to author Kidoju quizzes.
+We recommend a screen of at least 8” to author Kidoju quizzes.
 

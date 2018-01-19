@@ -51,7 +51,8 @@
   * [Regular Expressions](advanced_guide/regular_expressions.md)
   * [JavaScript custom validations](advanced_guide/javascript_custom_validations.md)
 
-## Mobile Guide
+## Mobile Application Guide
 
 * [Help](mobile-guide/help.md)
+* [Prerequisites](mobile-guide/prerequisites.md)
 
