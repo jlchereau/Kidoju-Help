@@ -53,5 +53,5 @@
 
 ## Mobile Guide
 
-
+* [Help](mobile-guide/help.md)
 
