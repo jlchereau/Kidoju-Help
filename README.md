@@ -6,17 +6,12 @@ Version 0.3.4 - build 2018.01.01
 
 
 
+You might also want to check:
 
-
-
-
-
-
-
-
-
-
-
+* [Our blog](https://www.kidoju.com/support/en/posts),
+* [Our video tutorials](https://www.youtube.com/channel/UCzvNSb6xFpN8kIaw85M1-Pg),
+* [Our Gitter community for Q&A's](https://gitter.im/Kidoju), and
+* Our [Twitter](https://twitter.com/kidoju) and [Facebook ](https://www.facebook.com/kidoju)accounts.
 
 
 
