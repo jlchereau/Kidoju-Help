@@ -17,6 +17,7 @@
   * [Player](student_guide/player.md)
   * [Benefits of being signed in](student_guide/benefits_of_being_signed_in.md)
   * [User page](student_guide/user_page.md)
+  * [Mobile Guide](student_guide/mobile-guide.md)
 * [Teacher Guide](teacher_guide/README.md)
   * [Home page](teacher_guide/home_page.md)
   * [Retrieving a draft test](teacher_guide/retrieving_a_draft_test.md)
