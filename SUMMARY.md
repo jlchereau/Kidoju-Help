@@ -1,5 +1,7 @@
 # Summary
 
+## Web Application Guide
+
 * [Help](README.md)
 * [Prerequisites](prerequisites.md)
 * [Introduction](introduction.md)
@@ -17,7 +19,6 @@
   * [Player](student_guide/player.md)
   * [Benefits of being signed in](student_guide/benefits_of_being_signed_in.md)
   * [User page](student_guide/user_page.md)
-  * [Mobile Guide](student_guide/mobile-guide.md)
 * [Teacher Guide](teacher_guide/README.md)
   * [Home page](teacher_guide/home_page.md)
   * [Retrieving a draft test](teacher_guide/retrieving_a_draft_test.md)
@@ -49,4 +50,8 @@
   * [CSS styles](advanced_guide/css_styles.md)
   * [Regular Expressions](advanced_guide/regular_expressions.md)
   * [JavaScript custom validations](advanced_guide/javascript_custom_validations.md)
+
+## Mobile Guide
+
+
 
