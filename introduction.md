@@ -4,8 +4,6 @@ Kidoju is a web-based community platform to produce, share and consume highly-in
 
 Kidoju is available at [https://www.kidoju.com](https://www.kidoju.com).
 
-Mobile applications 
-
 Quizzes are often considered as multiple choice questions. So we sometime refer to quizzes developed with the Kidoju rich toolset as “Kidoju quizzes” or simply as “Kidojus”.
 
 This guide is divided into the following sections:
