@@ -1,8 +1,8 @@
 # Summary
 
 * [Help](README.md)
-* [Introduction](introduction.md)
 * [Prerequisites](prerequisites.md)
+* [Introduction](introduction.md)
 * [Concepts](concepts/README.md)
   * [Editor and Player](concepts/editor_and_player.md)
   * [Tools, pages and components](concepts/tools,_pages_and_components.md)
@@ -29,7 +29,7 @@
   * [Styles](teacher_guide/styles.md)
   * [Labels](teacher_guide/labels.md)
   * [Images](teacher_guide/images.md)
-  * [Quizzes (or multiple choice questions)](teacher_guide/quizzes_or_multiple_choice_questions.md)
+  * [Quizzes \(or multiple choice questions\)](teacher_guide/quizzes_or_multiple_choice_questions.md)
   * [Checkboxes](teacher_guide/checkboxes.md)
   * [Textboxes](teacher_guide/textboxes.md)
   * [Connectors](teacher_guide/connectors.md)
@@ -48,3 +48,4 @@
   * [CSS styles](advanced_guide/css_styles.md)
   * [Regular Expressions](advanced_guide/regular_expressions.md)
   * [JavaScript custom validations](advanced_guide/javascript_custom_validations.md)
+

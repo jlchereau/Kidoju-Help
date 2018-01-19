@@ -2,7 +2,15 @@
 
 # User Guide {#help}
 
-Version 2017.01.01
+Version 0.3.4 - build 2018.01.01
+
+
+
+
+
+
+
+
 
 
 
