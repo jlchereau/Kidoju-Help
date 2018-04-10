@@ -54,5 +54,5 @@
 ## Mobile Application Guide
 
 * [Help](mobile-guide/help.md)
-* [Prerequisites](mobile-guide/prerequisites.md)
+* [Prerequisites and Installation](mobile-guide/prerequisites.md)
 
