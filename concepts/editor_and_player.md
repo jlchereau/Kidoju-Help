@@ -12,6 +12,8 @@ There is a web-based _Editor_ \(aka designer\) to produce/author Kidojus:
 
 There is also a web-based _Player_ \(aka viewer\) to consume/play Kidojus:
 
+![](/assets/Web_Concepts_Editor_And_Player_03.png)
+
 > Note: contrary to the Editor which is only web-based, the Player also runs in the Kidoju mobile application.
 
 
