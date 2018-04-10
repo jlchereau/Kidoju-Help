@@ -2,7 +2,7 @@
 
 # Web Application User Guide {#help}
 
-Version 0.3.4 - build 2018.01.01
+Version 0.3.8 - build 2018.04.10
 
 You might also want to check:
 
