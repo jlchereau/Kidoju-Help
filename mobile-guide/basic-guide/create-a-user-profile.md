@@ -1,5 +1,9 @@
 ## Create a user profile
 
+> Note: You need an active internet connection to create a user profile.
+
+The first time you launch the application, you are presented with an onboarding walkthrough. Swipe through the pages until you get the Sign in screen:
+
 ![](/assets/Mobile_Create_User_Profile_01.png)
 
 
