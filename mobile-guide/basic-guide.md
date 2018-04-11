@@ -1,0 +1,13 @@
+
+
+
+
+
+
+* Google: [https://myaccount.google.com/permissions,](https://myaccount.google.com/permissions)
+* Facebook: 
+* Twitter: [https://twitter.com/settings/applications](https://twitter.com/settings/applications),
+* Windows Live: [https://account.live.com/consent/Manage](https://account.live.com/consent/Manage),
+
+
+
