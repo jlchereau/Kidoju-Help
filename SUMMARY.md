@@ -55,4 +55,5 @@
 
 * [Help](mobile-guide/help.md)
 * [Prerequisites and Installation](mobile-guide/prerequisites.md)
+* [Create a user profile](mobile-guide/create-a-user-profile.md)
 
