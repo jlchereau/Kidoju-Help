@@ -8,9 +8,7 @@ The first time you launch the application, you are presented with an onboarding 
 
 > Note: The default theme depends on the operating system \(iOS or Android\).
 
-You need to select an authentication provider to authenticate with our servers.
-
->
+You need to select an authentication provider to authenticate with our servers. No need to worry: we will never user your account to collect data about your friends or post on your timeline on your behalf. Anyway, you can check and revoke permissions anytime by clicking on the following links. 
 
 * Google: [https://myaccount.google.com/permissions,](#)
 * Facebook: [https://www.facebook.com/settings?tab=applications](#),
