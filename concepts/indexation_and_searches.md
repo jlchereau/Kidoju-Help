@@ -24,3 +24,11 @@ On the basis of a search on the word “steel”, Kidojus made by authors named 
 
 As a consequence, an author who designs a Kidoju about Napoleonic Wars, should make sure that Napoleon is quoted in the title or amongst tags to make it findable in a search on “Napoleon”. To increase the ranking, this author can add the word Napoleon to the title, tags and description.
 
+## Web searches and social networks
+
+The title and description is also used in web searches and when sharing on social networks.
+
+![](/assets/Web_Concepts_Indexation_And_Searches_02.png)
+
+
+
