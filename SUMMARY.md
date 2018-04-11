@@ -6,7 +6,7 @@
 * [Prerequisites](prerequisites.md)
 * [Introduction](introduction.md)
 * [Concepts](concepts/README.md)
-  * [Editor and Player](concepts/editor_and_player.md)
+  * [Editor and player](concepts/editor_and_player.md)
   * [Tools, pages and components](concepts/tools,_pages_and_components.md)
   * [Languages and categories](concepts/languages_and_categories.md)
   * [Indexation and searches](concepts/indexation_and_searches.md)
