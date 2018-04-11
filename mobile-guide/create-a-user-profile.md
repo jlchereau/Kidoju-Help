@@ -2,7 +2,7 @@
 
 > Note: You need an active internet connection to create a user profile.
 
-The first time you launch the mobile application, you need to swipe through the walkthrough to get to the sign-in screen. You are offered a choice of 4 authentication providers to authenticate with our servers.
+The first time you launch the mobile application, you are presented with an onboarding walkthgrough. Swipe through the screens to get to the sign-in screen. You are then offered a choice of 4 authentication providers to authenticate with our servers.
 
 ![](/assets/Mobile_Create_User_Profile_01.png)
 
@@ -21,7 +21,9 @@ Simply follow the instructions given by your authentication provider to create y
 
 ![](/assets/Mobile_Create_User_Profile_03.png)
 
-Add and confirm a PIN and save.
+Add and confirm a 4-digit PIN and save.
+
+![](/assets/Mobile_Create_User_Profile_04.png)
 
 
 
