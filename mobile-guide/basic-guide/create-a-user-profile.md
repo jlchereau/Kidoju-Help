@@ -2,11 +2,15 @@
 
 > Note: You need an active internet connection to create a user profile.
 
-The first time you launch the application, you are presented with an onboarding walkthrough. Swipe through the pages until you get the Sign in screen:
+The first time you launch the application, you are presented with an onboarding walkthrough. Swipe through the pages until you get the **Sign in** screen:
 
 ![](/assets/Mobile_Create_User_Profile_01.png)
 
+> Note: The default theme depends on the operating system \(iOS or Android\).
 
+You need to select an authentication provider to authenticate with our servers.
+
+>
 
 * Google: [https://myaccount.google.com/permissions,](#)
 * Facebook: [https://www.facebook.com/settings?tab=applications](#),
