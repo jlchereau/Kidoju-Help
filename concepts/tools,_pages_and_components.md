@@ -6,7 +6,7 @@ A Kidoju is divided into pages \(aka slides in PowerPoint®\). Each page compris
 
 The **Navigation** in the left pane of the _Editor_ displays all pages in a Kidoju. Selecting a page in the navigation, displays the corresponding page in the centre pane of the _Editor_. The interactive area in the centre pane is called the **Stage**.
 
-![](/assets/Web_Tools_Pages_And_Components_01.png)
+![](/assets/Web_Concepts_Tools_Pages_And_Components_01.png)
 
 A tool might be used to drop a component \(aka element\) onto the stage. For example, a label tool can be used to drop a label component onto the stage. In such a case, the term “label” might designate the tool from the toolbox or the corresponding component dropped on the stage. The tool defines a template. The component is an instance of this template on a page with a specific configuration, which might include some text and font attributes in the case of a label.
 
