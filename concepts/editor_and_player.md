@@ -1,4 +1,4 @@
-## Editor and Player {#editor-and-player}
+## Editor and player {#editor-and-player}
 
 In Kidoju, knowledge tests, exercises, assessments or quizzes are authored and played like Microsoft PowerPoint® presentations.
 
