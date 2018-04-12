@@ -1,5 +1,3 @@
-# Web Application Guide {#prerequisites}
-
 ## Prerequisites
 
 You need access to a web browser and an internet connection to follow the instructions in the current User Guide.
