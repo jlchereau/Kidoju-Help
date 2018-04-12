@@ -63,7 +63,7 @@
   * [Create a user profile](mobile-guide/basic-guide/create-a-user-profile.md)
   * [Explore and search](mobile-guide/basic-guide/explore-and-search.md)
   * [Play and submit](mobile-guide/basic-guide/play-and-submit.md)
-  * Score, correction and history
+  * [Score, correction and history](mobile-guide/basic-guide/score-correction-and-history.md)
 * [Advanced Guide](mobile-guide/advanced-guide/README.md)
   * [Settings](mobile-guide/advanced-guide/settings.md)
   * [Switch between user accounts](mobile-guide/advanced-guide/switch-between-user-accounts.md)
