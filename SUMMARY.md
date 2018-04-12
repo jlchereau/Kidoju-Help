@@ -7,7 +7,7 @@
 
 ## Web Application Guide
 
-* [Prerequisites](web-guide/README.md)
+* [Cover](web-guide/README.md)
 * [prerequisites](web-guide/prerequisites.md)
 * [Concepts](web-guide/concepts/README.md)
   * [Editor and player](web-guide/concepts/editor_and_player.md)
