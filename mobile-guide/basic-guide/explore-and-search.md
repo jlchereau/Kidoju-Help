@@ -4,7 +4,7 @@ At any time, you can press the three horizontal bars in the header to display th
 
 ![](/assets/Mobile_Explore_And_Search_01.png)
 
-The first option displays the Explorer with a hierarchical list of categories \(aka subjects\):
+The first option in the drawer displays the **Explorer **with a hierarchical list of categories \(aka subjects\):
 
 ![](/assets/Mobile_Explore_And_Search_02.png)
 
