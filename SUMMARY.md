@@ -2,8 +2,8 @@
 
 ## User Guide
 
-* [Cover](mobile-guide/help.md)
-* [Introduction](README.md)
+* [Cover](README.md)
+* [Introduction](introduction.md)
 
 ## Mobile Application Guide
 
