@@ -1,4 +1,4 @@
-## Publication, versioning and activities {#publication-versioning-and-activities}
+### Publication, versioning and activities
 
 Kidojus are versioned. There is no limit to the number of versions a Kidoju might have.
 
@@ -11,3 +11,4 @@ Pages and components of a published version cannot be modified. The icon, title,
 When the pages of a published Kidoju need to be updated, the author creates a new draft version. The Kidoju remains in a published state and the latest published version prevails until the new draft version is published.
 
 Versioning Kidojus allows users to view their scores and corrections at any time although a Kidoju might have been improved with new, updated or deleted questions.
+

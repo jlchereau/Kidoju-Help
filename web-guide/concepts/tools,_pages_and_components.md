@@ -1,4 +1,4 @@
-## Tools, pages and components {#tools-pages-and-components}
+### Tools, pages and components
 
 The Kidoju web-based _Editor_ provides tools to build knowledge tests, exercises, assessments or quizzes. These tools include labels, radios, checkboxes, textboxes, images, audio, video, mathematic expressions, connectors, drop zones among others.
 

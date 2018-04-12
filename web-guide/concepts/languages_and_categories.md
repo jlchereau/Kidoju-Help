@@ -1,4 +1,4 @@
-## Languages and categories {#languages-and-categories}
+### Languages and categories
 
 Kidojus are stored and organised in a hierarchy of categories \(aka subjects\) for each language.
 

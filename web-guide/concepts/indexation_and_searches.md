@@ -1,4 +1,4 @@
-## Indexation and searches {#indexation-and-searches}
+### Indexation and searches
 
 In addition to a language and category, Kidojus also have:
 
@@ -29,6 +29,4 @@ As a consequence, an author who designs a Kidoju about Napoleonic Wars, should m
 The title and description is also used in web searches and when sharing on social networks.
 
 ![](/assets/Web_Concepts_Indexation_And_Searches_02.png)
-
-
 
