@@ -1,17 +1,20 @@
-![](/assets/Kidoju-Logo.png)
+# Introduction {#introduction}
 
-# Web Application User Guide {#help}
+Kidoju is a web-based community platform to author, share and play highly-interactive self-corrected knowledge tests, exercises, assessments or quizzes.
 
-Version 0.3.8 - build 2018.04.10
+Kidoju is available as a web application at [https://www.kidoju.com](https://www.kidoju.com).
 
-You might also want to check:
+Quizzes are often limited to multiple choice questions. So we sometime refer to quizzes developed with the Kidoju rich toolset as “Kidoju quizzes”, “Kidoju content” or simply “Kidojus”.
 
-* [Our blog](https://www.kidoju.com/support/en/posts),
-* [Our video tutorials](https://www.youtube.com/channel/UCzvNSb6xFpN8kIaw85M1-Pg),
-* [Our Gitter community for Q&A's](https://gitter.im/Kidoju), and
-* Our [Twitter](https://twitter.com/kidoju) and [Facebook ](https://www.facebook.com/kidoju)accounts.
+This guide is divided into the following sections:
 
-THE SOFTWARE AVAILABLE AT KIDOJU.COM IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL KIDOJU.COM, MEMBA SARL OR ANY OF THEIR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES \(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION\) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT \(INCLUDING NEGLIGENCE OR OTHERWISE\) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+* The current introduction,
+* Definitions and concepts underlying Kidoju,
+* A student guide for consuming Kidojus,
+* A teacher/publisher guide for producing simple Kidojus,
+* An advanced guide for producing complex Kidojus.
 
-Copyright © 2013-2018 Memba Sarl. All rights reserved.
+This guide and subsequent versions can be found at [https://help.kidoju.com](https://cdn.kidoju.com/support/docs/user-guide.en.pdf).
+
+Assets used in the tutorials can be found at [https://cdn.kidoju.com/support/docs/user-guide.en.zip](https://cdn.kidoju.com/support/docs/user-guide.en.zip).
 

@@ -2,9 +2,10 @@
 
 ## User Guide
 
+* [Introduction](mobile-guide/help.md)
+
 ## Mobile Application Guide
 
-* [Introduction](mobile-guide/help.md)
 * [Prerequisites and Installation](mobile-guide/prerequisites.md)
 * [Basic Guide](mobile-guide/basic-guide.md)
   * [Create a user profile](mobile-guide/basic-guide/create-a-user-profile.md)
