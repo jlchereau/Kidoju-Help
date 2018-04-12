@@ -1,4 +1,4 @@
-# Create a user profile
+### Create a user profile
 
 > Note: You need an active internet connection to create a user profile.
 
@@ -24,6 +24,4 @@ Simply follow the instructions given by your authentication provider to create y
 Add and confirm a 4-digit PIN and save.
 
 ![](/assets/Mobile_Create_User_Profile_04.png)
-
-
 
