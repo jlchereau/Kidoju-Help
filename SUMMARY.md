@@ -2,7 +2,8 @@
 
 ## User Guide
 
-* [Introduction](mobile-guide/help.md)
+* [Cover](mobile-guide/help.md)
+* [Introduction](README.md)
 
 ## Mobile Application Guide
 
@@ -15,7 +16,6 @@
 
 ## Web Application Guide
 
-* [Introduction](README.md)
 * [Prerequisites](web-guide/prerequisites.md)
 * [Concepts](web-guide/concepts/README.md)
   * [Editor and player](web-guide/concepts/editor_and_player.md)
