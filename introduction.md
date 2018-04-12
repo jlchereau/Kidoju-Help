@@ -1,4 +1,4 @@
-# Introduction {#introduction}
+## Introduction
 
 Kidoju is a web-based community platform to author, share and play highly-interactive self-corrected knowledge tests, exercises, assessments or quizzes.
 
