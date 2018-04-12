@@ -57,7 +57,7 @@
 
 ## Mobile Application Guide
 
-* [Prerequisites and Installation](mobile-guide/README.md)
+* [Cover](mobile-guide/README.md)
 * [Prerequisites and installation](mobile-guide/prerequisites-and-installation.md)
 * [Basic Guide](mobile-guide/basic-guide/README.md)
   * [Create a user profile](mobile-guide/basic-guide/create-a-user-profile.md)
