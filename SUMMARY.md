@@ -17,7 +17,6 @@
 
 * [Introduction](README.md)
 * [Prerequisites](web-guide/prerequisites.md)
-* [Introduction](web-guide/introduction.md)
 * [Concepts](web-guide/concepts/README.md)
   * [Editor and player](web-guide/concepts/editor_and_player.md)
   * [Tools, pages and components](web-guide/concepts/tools,_pages_and_components.md)
