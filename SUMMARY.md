@@ -5,15 +5,6 @@
 * [Cover](README.md)
 * [Introduction](introduction.md)
 
-## Mobile Application Guide
-
-* [Prerequisites and Installation](mobile-guide/README.md)
-* [Basic Guide](mobile-guide/basic-guide/README.md)
-  * [Create a user profile](mobile-guide/basic-guide/create-a-user-profile.md)
-  * [Explore and search](mobile-guide/basic-guide/explore-and-search.md)
-* [Advanced Guide](mobile-guide/advanced-guide/README.md)
-  * [Switch between user accounts](mobile-guide/advanced-guide/switch-between-user-accounts.md)
-
 ## Web Application Guide
 
 * [Prerequisites](web-guide/prerequisites.md)
@@ -62,4 +53,13 @@
   * [CSS styles](web-guide/advanced_guide/css_styles.md)
   * [Regular Expressions](web-guide/advanced_guide/regular_expressions.md)
   * [JavaScript custom validations](web-guide/advanced_guide/javascript_custom_validations.md)
+
+## Mobile Application Guide
+
+* [Prerequisites and Installation](mobile-guide/README.md)
+* [Basic Guide](mobile-guide/basic-guide/README.md)
+  * [Create a user profile](mobile-guide/basic-guide/create-a-user-profile.md)
+  * [Explore and search](mobile-guide/basic-guide/explore-and-search.md)
+* [Advanced Guide](mobile-guide/advanced-guide/README.md)
+  * [Switch between user accounts](mobile-guide/advanced-guide/switch-between-user-accounts.md)
 
