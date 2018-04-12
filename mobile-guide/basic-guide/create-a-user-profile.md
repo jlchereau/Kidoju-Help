@@ -1,23 +1,29 @@
-## Create a user profile
+# Create a user profile
 
 > Note: You need an active internet connection to create a user profile.
 
-The first time you launch the application, you are presented with an onboarding walkthrough. Swipe through the pages until you get the **Sign in** screen:
+The first time you launch the mobile application, you are presented with an onboarding walkthgrough. Swipe through the screens to get to the sign-in screen. You are then offered a choice of 4 authentication providers to authenticate with our servers.
 
 ![](/assets/Mobile_Create_User_Profile_01.png)
 
-> Note: The default theme depends on the operating system \(iOS or Android\).
+> Note: No need to worry: we will never \(since we cannot\) use your account to collect data about your friends or post on your timeline on your behalf.
 
-You need to select an authentication provider to authenticate with our servers. No need to worry: we will never use your account to collect data about your friends or post on your timeline on your behalf. Anyway, you can check and revoke permissions anytime by clicking on the following links.
+At anytime, you can consult the permissions you have given us and remove access by clicking the links below:
 
-* Google: [https://myaccount.google.com/permissions,](#)
-* Facebook: [https://www.facebook.com/settings?tab=applications](#),
-* Twitter: [https://twitter.com/settings/applications](#),
-* Windows Live: [https://account.live.com/consent/Manage](#).
+* Google: [https://myaccount.google.com/permissions](https://myaccount.google.com/permissions),
+* Facebook: [https://www.facebook.com/settings?tab=applications](https://www.facebook.com/settings?tab=applications),
+* Twitter: [https://twitter.com/settings/applications](https://twitter.com/settings/applications),
+* Windows Live: [https://account.live.com/consent/Manage](https://account.live.com/consent/Manage).
 
-![](blob:file:///17b4a9e6-044f-4272-a00e-af599b3024da)
+![](/assets/Mobile_Create_User_Profile_02.png)
 
-![](blob:file:///3cb1ed09-e9fb-436b-92fd-904cfc7fd33a)
+Simply follow the instructions given by your authentication provider to create your user profile on our servers.
 
-![](blob:file:///c0795a11-abe7-4d72-b1e6-1ac45f8113a0)
+![](/assets/Mobile_Create_User_Profile_03.png)
+
+Add and confirm a 4-digit PIN and save.
+
+![](/assets/Mobile_Create_User_Profile_04.png)
+
+
 
