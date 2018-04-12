@@ -6,15 +6,19 @@ Kidoju is available as a web application at [https://www.kidoju.com](https://www
 
 Quizzes are often limited to multiple choice questions. Kidoju can do a lot more, so we sometime refer to quizzes developed with the Kidoju rich toolset as “Kidoju quizzes”, “Kidoju content” or simply “Kidojus”.
 
-This guide is divided into the following sections:
+This user guide is divided into the following sections:
 
 * The current introduction,
-* Definitions and concepts underlying Kidoju,
-* A student guide for consuming Kidojus,
-* A teacher/publisher guide for producing simple Kidojus,
-* An advanced guide for producing complex Kidojus.
+* A web application guide, including:
+  * Definitions and concepts underlying Kidoju,
+  * A student guide for playing Kidojus,
+  * A teacher/publisher guide for authoring simple Kidojus,
+  * An advanced guide for authoring rich Kidojus.
+* A mobile application guide, divided into:
+  * A basic guide,
+  * An advanced guide.
 
-This guide and subsequent versions can be found at [https://help.kidoju.com](https://cdn.kidoju.com/support/docs/user-guide.en.pdf).
+This user guide and subsequent versions can be found at [https://help.kidoju.com](https://cdn.kidoju.com/support/docs/user-guide.en.pdf).
 
 Assets used in the tutorials can be found at [https://cdn.kidoju.com/support/docs/user-guide.en.zip](https://cdn.kidoju.com/support/docs/user-guide.en.zip).
 
