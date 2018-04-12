@@ -2,7 +2,7 @@
 
 Kidoju is a web-based community platform to author, share and play highly-interactive self-corrected knowledge tests, exercises, assessments or quizzes.
 
-Kidoju is available as a web application at [https://www.kidoju.com](https://www.kidoju.com).
+Kidoju is available as a web application at [https://www.kidoju.com](https://www.kidoju.com) and as mobile applications for iOS and Android.
 
 Quizzes are often limited to multiple choice questions. So we sometime refer to quizzes developed with the Kidoju rich toolset as “Kidoju quizzes”, “Kidoju content” or simply “Kidojus”.
 
