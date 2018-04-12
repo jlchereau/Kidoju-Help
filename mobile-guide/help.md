@@ -1,6 +1,6 @@
 # ![](/assets/Kidoju-Logo.png)
 
-# Mobile Application User Guide
+# User Guide
 
 Version 0.3.10 - build 2018.04.10
 
