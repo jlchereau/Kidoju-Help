@@ -2,7 +2,7 @@
 
 ## Web Application Guide
 
-* [Introduction](web-guide/README.md)
+* [Introduction](README.md)
 * [Prerequisites](web-guide/prerequisites.md)
 * [Introduction](web-guide/introduction.md)
 * [Concepts](web-guide/concepts/README.md)
