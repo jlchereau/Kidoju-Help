@@ -14,3 +14,9 @@ Pressing any category or the magnifier in the header displays a list of search r
 
 The search results are colored as follows:
 
+* With a **transparent **background \(which translates into a light or dark background depending on the selected theme - here white\), the Kidojus which have never been played;
+* With an **alternate **background \(which translates into a darker or lighter background depending on the selected theme - here grey\), the Kidojus which have been played but never submitted;
+* With a red background, the Kidojus which have resulted into a score of less than 50%;
+
+
+
